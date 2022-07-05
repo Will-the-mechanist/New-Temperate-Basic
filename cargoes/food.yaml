@@ -1,0 +1,17 @@
+abbreviation: FD
+available: false
+classes: 4
+colour: 1
+id: 8
+label: FOOD
+longName: food
+name: Food
+penaltyLength: 20
+penaltyLowerBound: 0
+price: 6908
+sprite:
+  filename: cargoes/food.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
