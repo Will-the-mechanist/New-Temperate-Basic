@@ -1,0 +1,17 @@
+abbreviation: ME
+available: true
+classes: 32
+colour: 51
+id: 3
+label: METL
+longName: metal
+name: Metal
+penaltyLength: 243
+penaltyLowerBound: 12
+price: 5222
+sprite:
+  filename: cargoes/metal.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

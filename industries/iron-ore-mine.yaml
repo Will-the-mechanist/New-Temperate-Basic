@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- ENSP
+cargoProduction:
+- IORE
+colour: 1
+fundCostMultiplier: 230
+id: 1
+layout:
+- - - -1
+name: Iron Ore Mine
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 10
+prospectChance: 75
+tiles: []
+type: primary

@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- ENSP
+cargoProduction:
+- COAL
+colour: 1
+fundCostMultiplier: 252
+id: 0
+layout:
+- - - -1
+name: Coal Mine
+placement: anywhere
+probabilityInGame: 4
+probabilityMapGen: 10
+prospectChance: 75
+tiles: []
+type: primary
