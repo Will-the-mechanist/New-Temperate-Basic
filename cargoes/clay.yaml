@@ -1,0 +1,17 @@
+abbreviation: CA
+available: false
+classes: 32
+colour: 1
+id: 12
+label: CLAY
+longName: clay
+name: Clay
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/clay.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

@@ -1,16 +1,16 @@
-abbreviation: ME
+abbreviation: ST
 available: true
 classes: 32
 colour: 51
 id: 3
-label: METL
-longName: metal
-name: Metal
+label: STEL
+longName: steel
+name: Steel
 penaltyLength: 243
 penaltyLowerBound: 12
 price: 5222
 sprite:
-  filename: cargoes/metal.png
+  filename: cargoes/steel.png
   left: 0
   top: 0
 unitName: Tonnes
