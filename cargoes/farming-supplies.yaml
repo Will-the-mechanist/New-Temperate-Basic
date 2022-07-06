@@ -1,0 +1,17 @@
+abbreviation: FS
+available: true
+classes: 32
+colour: 37
+id: 14
+label: FMSP
+longName: farming supplies
+name: Farming supplies
+penaltyLength: 32
+penaltyLowerBound: 2
+price: 6991
+sprite:
+  filename: cargoes/farming-supplies.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 10
