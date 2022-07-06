@@ -1,0 +1,17 @@
+abbreviation: CH
+available: true
+classes: 64
+colour: 1
+id: 13
+label: RFPR
+longName: chemicals
+name: Chemicals
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/chemicals.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
