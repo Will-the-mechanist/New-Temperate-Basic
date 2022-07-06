@@ -8,7 +8,7 @@ longName: chemicals
 name: Chemicals
 penaltyLength: 255
 penaltyLowerBound: 0
-price: 4112
+price: 4729
 sprite:
   filename: cargoes/chemicals.png
   left: 0
