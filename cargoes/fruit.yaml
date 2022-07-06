@@ -1,0 +1,17 @@
+abbreviation: FT
+available: true
+classes: 4
+colour: 1
+id: 15
+label: FRUT
+longName: fruit
+name: Fruit
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/fruit.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16
