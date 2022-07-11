@@ -1,0 +1,17 @@
+abbreviation: FI
+available: true
+classes: 160
+colour: 149
+id: 16
+label: FISH
+longName: fish
+name: Fish
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/fish.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
