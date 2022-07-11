@@ -1,0 +1,17 @@
+abbreviation: MK
+available: true
+classes: 32
+colour: 161
+id: 17
+label: MILK
+longName: milk
+name: Milk
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/milk.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
