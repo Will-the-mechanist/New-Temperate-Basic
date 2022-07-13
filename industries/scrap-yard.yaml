@@ -150,7 +150,7 @@ colour: 1
 fundCostMultiplier: 101
 id: 2
 layout:
-- - - 8
+- - - 1
     - -1
     - -1
     - -1
@@ -204,7 +204,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/scrap-yard/1.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
@@ -215,7 +217,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/scrap-yard/3.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
@@ -248,7 +252,9 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      id: 3924
+      filename: industries/scrap-yard/2.png
+      left: -31
+      top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
