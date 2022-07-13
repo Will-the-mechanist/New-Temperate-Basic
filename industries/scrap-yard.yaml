@@ -150,7 +150,21 @@ colour: 1
 fundCostMultiplier: 101
 id: 2
 layout:
-- - - 8
+- - - -1
+    - -1
+    - -1
+    - -1
+    - 4
+  - - -1
+    - 1
+    - 0
+    - 3
+    - 2
+  - - 1
+    - 8
+    - 7
+    - 6
+    - 5
 name: Scrap Yard
 placement: near-town
 probabilityInGame: 5
