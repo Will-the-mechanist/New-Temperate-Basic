@@ -150,93 +150,13 @@ colour: 1
 fundCostMultiplier: 101
 id: 2
 layout:
-- - - 1
-    - -1
-    - -1
-    - -1
-    - 4
-  - - -1
-    - 1
-    - 0
-    - 3
-    - 2
-  - - 1
-    - 8
-    - 7
-    - 6
-    - 5
-- - - -1
-    - -1
-    - 4
-  - - 6
-    - 0
-    - 2
-  - - -1
-    - 7
-    - 5
-- - - -1
-    - -1
-    - -1
-    - -1
-    - 4
-  - - -1
-    - 1
-    - 0
-    - 3
-    - 2
-  - - -1
-    - -1
-    - -1
-    - -1
-    - -1
-  - - 1
-    - 8
-    - 7
-    - 6
-    - 5
+- - - 8
 name: Scrap Yard
 placement: near-town
 probabilityInGame: 5
 probabilityMapGen: 14
 prospectChance: 75
 tiles:
-- sprites:
-  - alwaysDraw: true
-    drawType: recolour
-    sprite:
-      filename: industries/scrap-yard/1.png
-      left: -31
-      top: 0
-  - alwaysDraw: false
-    drawType: recolour
-    sprite:
-      filename: industries/scrap-yard/1.png
-      left: -31
-      top: -24
-- sprites:
-  - alwaysDraw: true
-    drawType: recolour
-    sprite:
-      filename: industries/scrap-yard/3.png
-      left: -31
-      top: 0
-  - alwaysDraw: false
-    drawType: recolour
-    sprite:
-      filename: industries/scrap-yard/2.png
-      left: -38
-      top: -48
-- sprites:
-  - alwaysDraw: true
-    drawType: recolour
-    sprite:
-      id: 3924
-  - alwaysDraw: false
-    drawType: recolour
-    sprite:
-      filename: industries/scrap-yard/3.png
-      left: -31
-      top: -24
 - sprites:
   - alwaysDraw: true
     drawType: recolour
@@ -252,9 +172,7 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/scrap-yard/2.png
-      left: -31
-      top: 0
+      id: 3924
   - alwaysDraw: false
     drawType: recolour
     sprite:
@@ -303,6 +221,39 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/scrap-yard/9.png
+      left: -31
+      top: -24
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/scrap-yard/10.png
+      left: -31
+      top: -24
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/scrap-yard/11.png
+      left: -31
+      top: -24
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/scrap-yard/12.png
       left: -31
       top: -24
 type: primary
