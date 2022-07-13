@@ -165,6 +165,15 @@ layout:
     - 7
     - 6
     - 5
+- - - -1
+    - -1
+    - 4
+  - - 6
+    - 0
+    - 2
+  - - -1
+    - 7
+    - 5
 name: Scrap Yard
 placement: near-town
 probabilityInGame: 5
