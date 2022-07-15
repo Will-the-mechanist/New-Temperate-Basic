@@ -1,4 +1,4 @@
-available: true
+available: false
 callbacks: |
   const type{
       accept_cargo_types cargodict
@@ -105,14 +105,147 @@ cargoAcceptance:
 cargoProduction:
 - STEL
 colour: 1
-fundCostMultiplier: 180
+fundCostMultiplier: 191
 id: 3
 layout:
 - - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
+  - - -1
+    - -1
+    - -1
+    - -1
 name: Steel Mill
 placement: near-town
-probabilityInGame: 0
+probabilityInGame: 1
 probabilityMapGen: 3
 prospectChance: 0
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/12.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/13.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/14.png
+      left: -31
+      top: -114
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/15.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/16.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/17.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/18.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/19.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/20.png
+      left: -31
+      top: -91
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/steel-mill/21.png
+      left: -31
+      top: -91
 type: secondary
