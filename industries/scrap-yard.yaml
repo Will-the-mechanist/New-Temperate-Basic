@@ -42,6 +42,7 @@ callbacks: |
 
   supply_requirement 8 =
 
+  accept_cargo_types ctt:ENSP [] 1 =
   prod_cargo_types ctt:SCMT [] 32 =
 
 
