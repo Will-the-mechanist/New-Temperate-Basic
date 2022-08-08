@@ -1,4 +1,4 @@
-available: false
+available: true
 callbacks: |
   const type{
       accept_cargo_types cargodict
