@@ -1,0 +1,19 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- FMSP
+cargoProduction:
+- FRUT
+- LVST
+colour: 1
+fundCostMultiplier: 100
+id: 6
+layout:
+- - - -1
+name: Orchard & Piggery
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
