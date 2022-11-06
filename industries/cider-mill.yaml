@@ -1,13 +1,15 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- FRUT
+cargoProduction:
+- BEER
 colour: 1
 fundCostMultiplier: 100
 id: 5
 layout:
 - - - -1
-name: Brewery
+name: Cider Mill
 placement: near-town
 probabilityInGame: 5
 probabilityMapGen: 3
