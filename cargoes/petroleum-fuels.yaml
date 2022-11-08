@@ -1,0 +1,17 @@
+abbreviation: PE
+available: true
+classes: 320
+colour: 1
+id: 19
+label: PTRL
+longName: petroleum fuels
+name: Petroleum Fuels
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/petroleum-fuels.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16
