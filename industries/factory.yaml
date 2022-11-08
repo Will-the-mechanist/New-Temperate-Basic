@@ -1,18 +1,19 @@
 available: true
 callbacks: ''
 cargoAcceptance:
-- ENSP
+- RFPR
+- STEL
 cargoProduction:
-- OIL_
+- GOOD
 colour: 1
 fundCostMultiplier: 100
-id: 8
+id: 9
 layout:
 - - - -1
-name: Oil Rig
-placement: on-water
+name: Factory
+placement: near-town
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 75
+prospectChance: 0
 tiles: []
-type: primary
+type: tertiary
