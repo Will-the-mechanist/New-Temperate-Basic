@@ -1,0 +1,21 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- RFPR
+- FOOD
+- GOOD
+cargoProduction:
+- ENSP
+- FMSP
+colour: 1
+fundCostMultiplier: 100
+id: 10
+layout:
+- - - -1
+name: Port
+placement: on-water
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: tertiary

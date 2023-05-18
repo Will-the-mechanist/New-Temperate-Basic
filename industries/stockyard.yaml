@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- LVST
+cargoProduction:
+- FOOD
+colour: 1
+fundCostMultiplier: 100
+id: 19
+layout:
+- - - -1
+name: Stockyard
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

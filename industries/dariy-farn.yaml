@@ -1,0 +1,19 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- FMSP
+cargoProduction:
+- LVST
+- MILK
+colour: 1
+fundCostMultiplier: 100
+id: 13
+layout:
+- - - -1
+name: Dariy Farn
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

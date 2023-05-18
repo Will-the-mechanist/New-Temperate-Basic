@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- CLAY
+cargoProduction:
+- GOOD
+colour: 1
+fundCostMultiplier: 100
+id: 4
+layout:
+- - - -1
+name: Pottery
+placement: near-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

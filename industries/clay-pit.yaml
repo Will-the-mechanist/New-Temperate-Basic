@@ -1,18 +1,18 @@
 available: true
 callbacks: ''
 cargoAcceptance:
-- CLAY
+- ENSP
 cargoProduction:
-- GOOD
+- CLAY
 colour: 1
 fundCostMultiplier: 100
-id: 4
+id: 11
 layout:
 - - - -1
-name: Ceramic Workshop
-placement: near-town
+name: Clay Pit
+placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
-prospectChance: 0
+prospectChance: 75
 tiles: []
-type: secondary
+type: primary

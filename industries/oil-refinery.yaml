@@ -1,16 +1,18 @@
 available: true
 callbacks: ''
-cargoAcceptance: []
-cargoProduction: []
+cargoAcceptance:
+- OIL_
+cargoProduction:
+- RFPR
 colour: 1
 fundCostMultiplier: 100
-id: 10
+id: 12
 layout:
 - - - -1
-name: Petrol Station
-placement: in-town
+name: Oil Refinery
+placement: anywhere
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 0
 tiles: []
-type: tertiary
+type: secondary

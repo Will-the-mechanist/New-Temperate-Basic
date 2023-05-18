@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- ENSP
+cargoProduction:
+- SAND
+colour: 1
+fundCostMultiplier: 100
+id: 21
+layout:
+- - - -1
+name: Dredging Site
+placement: on-water
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary

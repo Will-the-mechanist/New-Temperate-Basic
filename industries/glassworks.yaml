@@ -1,0 +1,18 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- SAND
+cargoProduction:
+- GOOD
+colour: 1
+fundCostMultiplier: 100
+id: 16
+layout:
+- - - -1
+name: Glassworks
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
