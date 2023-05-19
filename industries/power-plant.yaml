@@ -1,0 +1,17 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- COAL
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 22
+layout:
+- - - -1
+name: Power Plant
+placement: anywhere
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary
